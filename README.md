@@ -1,4 +1,4 @@
-### Hi there 👋
+### Interested in building technology for a better future.
 
 <!--
 **devashish9/devashish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
